@@ -2,6 +2,7 @@ RSPEC and Capybara
 
     To start the local server (rails server)
     To run the tests (rails -s)
+    To start guard (guard)
 
 - Write out the scenario in a test file
 - First Step: Test will fail
